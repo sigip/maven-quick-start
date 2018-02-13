@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="clinic.programming.training.ApplicationTest" time="0.032" errors="0" skipped="1">
+<testsuite tests="5" failures="0" name="clinic.programming.training.ApplicationTest" time="0" errors="0" skipped="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_162\jre\bin"/>
     <property name="java.vm.version" value="25.162-b12"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:/Users/Siegfried/MavenProject/maven-quick-start"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Siegfried\MavenProject\maven-quick-start"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -27,27 +27,24 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:/Work/Tools/apache-maven-3.5.2/bin/m2.conf"/>
+    <property name="classworlds.conf" value="C:\Users\Siegfried\eclipsew\eclipse-workspace-udemy4\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6655461687487740816.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_162\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Siegfried\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Siegfried\bin;C:\tools\ruby25\bin;C:\Program Files (x86)\PC Connectivity Solution;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\ArcSoft\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Skype\Phone;C:\Program Files\MATLAB\R2017a\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files\Intel\WiFi\bin;C:\cygwin64\bin;C:\Program Files\Java\jdk1.8.0_162\bin;C:\Program Files\Java\jre1.8.0_162\bin;C:\Users\Siegfried\AppData\Local\Android3\emulator;C:\Users\Siegfried\AppData\Local\Android3\emulator\lib64\qt\lib;C:\Users\Siegfried\AppData\Local\Android3\emulator\qemu\windows-x86;C:\Users\Siegfried\AppData\Local\Android3\emulator\qemu\windows-x86_64;C:\Users\Siegfried\AppData\Local\Android3\ndk-bundle;C:\Users\Siegfried\AppData\Local\Android3\platform-tools;C:\Users\Siegfried\AppData\Local\Android3\tools;C:\Users\Siegfried\AppData\Local\Android3\tools\bin;C:\Users\Siegfried\AppData\Local\Android3\tools\lib;C:\Program Files\Android\Android Studio3\bin;C:\Users\Siegfried\Downloads\jadx-0.6.1\bin;C:\Users\Siegfried\Downloads\jd-gui-windows-1.4.0;C:\Users\Siegfried\Downloads\jd-cmd-master\jd-cli\src\main\bin;C:\DevKit-mingw64-64-4.7.2-20130224-1432-sfx\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet;C:\Program Files\Notepad++;C:\Work\Tools\apache-maven-3.5.2\bin;C:\Program Files\Git\cmd;C:\Users\Siegfried\AppData\Local\Programs\Python\Python36\Scripts;C:\Users\Siegfried\AppData\Local\Programs\Python\Python36;C:\Users\Siegfried\AppData\Local\Microsoft\WindowsApps;C:\Users\Siegfried\AppData\Local\Android\sdk\platform-tools;C:\Users\Siegfried\AppData\Local\Android\sdk;C:\Users\Siegfried\AppData\Local\Android\sdk\emulator;C:\Users\Siegfried\AppData\Local\Android\sdk\emulator\qemu\windows-x86_64;C:\Users\Siegfried\AppData\Local\Android\sdk\emulator\lib64\qt\lib;C:\Users\Siegfried\AppData\Local\Android\sdk\tools;C:\Users\Siegfried\AppData\Local\Android\sdk\tools\lib;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
-    <property name="jansi.passthrough" value="true"/>
-    <property name="maven.conf" value="C:/Work/Tools/apache-maven-3.5.2/conf"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_162\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_162/jre/bin/server;C:/Program Files/Java/jdk1.8.0_162/jre/bin;C:/Program Files/Java/jdk1.8.0_162/jre/lib/amd64;C:\tools\ruby25\bin;C:\Program Files (x86)\PC Connectivity Solution\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\ArcSoft\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MATLAB\R2017a\bin;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Intel\WiFi\bin\;C:\cygwin64\bin;C:\Program Files\Java\jdk1.8.0_162\bin;C:\Program Files\Java\jre1.8.0_162\bin;C:\Users\Siegfried\AppData\Local\Android3\emulator;C:\Users\Siegfried\AppData\Local\Android3\emulator\lib64\qt\lib;C:\Users\Siegfried\AppData\Local\Android3\emulator\qemu\windows-x86;C:\Users\Siegfried\AppData\Local\Android3\emulator\qemu\windows-x86_64;C:\Users\Siegfried\AppData\Local\Android3\ndk-bundle;C:\Users\Siegfried\AppData\Local\Android3\platform-tools;C:\Users\Siegfried\AppData\Local\Android3\tools;C:\Users\Siegfried\AppData\Local\Android3\tools\bin;C:\Users\Siegfried\AppData\Local\Android3\tools\lib;C:\Program Files\Android\Android Studio3\bin;C:\Users\Siegfried\Downloads\jadx-0.6.1\bin;C:\Users\Siegfried\Downloads\jd-gui-windows-1.4.0;C:\Users\Siegfried\Downloads\jd-cmd-master\jd-cli\src\main\bin;C:\DevKit-mingw64-64-4.7.2-20130224-1432-sfx\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Notepad++;C:\Work\Tools\apache-maven-3.5.2\bin;C:\Program Files\Git\cmd;C:\Users\Siegfried\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Siegfried\AppData\Local\Programs\Python\Python36\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Siegfried\AppData\Local\Microsoft\WindowsApps;C:\cygwin64\bin;C:\Users\Siegfried\AppData\Local\Android\sdk\platform-tools;C:\Program Files\Java\jdk1.8.0_162\bin;C:\Program Files\Java\jre1.8.0_162\bin;C:\Users\Siegfried\AppData\Local\Android\sdk;C:\Users\Siegfried\AppData\Local\Android\sdk\emulator;C:\Users\Siegfried\AppData\Local\Android\sdk\emulator\qemu\windows-x86_64;C:\Users\Siegfried\AppData\Local\Android\sdk\emulator\lib64\qt\lib;C:\Users\Siegfried\AppData\Local\Android\sdk\tools;C:\Users\Siegfried\AppData\Local\Android\sdk\tools\lib;C:\Program Files\Android\Android Studio\bin;C:\Users\Siegfried\Downloads\jadx-0.6.1\bin;C:\Users\Siegfried\Downloads\jd-gui-windows-1.4.0;C:\Users\Siegfried\Downloads\jd-cmd-master\jd-cli\src\main\bin;C:\DevKit-mingw64-64-4.7.2-20130224-1432-sfx\bin;C:\Program Files\dotnet;C:\Program Files\Notepad++;C:\Work\Tools\apache-maven-3.5.2\bin;C:\Program Files\Git\bin;;C:\Work\Tools\Java_Netbeans_Eclipse_Inst\jee-oxygen\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.0"/>
-    <property name="library.jansi.path" value="C:/Work/Tools/apache-maven-3.5.2/lib/jansi-native"/>
     <property name="user.home" value="C:\Users\Siegfried"/>
     <property name="user.timezone" value="Europe/Berlin"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="Cp1252"/>
+    <property name="file.encoding" value="UTF-8"/>
     <property name="user.name" value="Siegfried"/>
-    <property name="java.class.path" value="C:/Work/Tools/apache-maven-3.5.2/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="C:\Work\Tools\apache-maven-3.5.2\boot\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_162\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="de"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -66,8 +63,8 @@
   </properties>
   <testcase classname="clinic.programming.training.ApplicationTest" name="testWordCountSingle" time="0"/>
   <testcase classname="clinic.programming.training.ApplicationTest" name="testWordCountString" time="0"/>
-  <testcase classname="clinic.programming.training.ApplicationTest" name="testWordCountEmpty" time="0.016"/>
-  <testcase classname="clinic.programming.training.ApplicationTest" name="testWordCountMore" time="0.016">
+  <testcase classname="clinic.programming.training.ApplicationTest" name="testWordCountEmpty" time="0"/>
+  <testcase classname="clinic.programming.training.ApplicationTest" name="testWordCountMore" time="0">
     <skipped/>
   </testcase>
   <testcase classname="clinic.programming.training.ApplicationTest" name="testWordCountNull" time="0"/>
